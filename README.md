@@ -1,7 +1,7 @@
 # Systems Engineering Evaluation of Aircraft Boarding Strategies Using Discrete-Event Simulation
 
 ## 📌 Project Overview
-This project applies core systems engineering principles to critically evaluate passenger boarding strategies for single-aisle aircraft using a high-fidelity discrete-event simulation (DES) digital twin built in Witness Horizon. The turnaround sequence is highly variable and directly dictates operational efficiency, crew utilization, and airline profitability—especially for short-haul and low-cost carriers. This study models the boarding process as a complex socio-technical system intersecting human behavior, physical aircraft layout constraints, and operational policy rules.
+This project applies core systems engineering principles to critically evaluate passenger boarding strategies for single-aisle aircraft using a high-fidelity discrete-event simulation (DES) digital twin built in Witness Horizon. The turnaround sequence is highly variable and directly dictates operational efficiency, crew utilization, and airline profitability, especially for short-haul and low-cost carriers. This study models the boarding process as a complex socio-technical system intersecting human behavior, physical aircraft layout constraints, and operational policy rules.
 
 ## ⚙️ System Parameters & Stochastic Data Modeling
 The digital twin was constructed under uniform operational parameters to isolate strategy efficiency:
